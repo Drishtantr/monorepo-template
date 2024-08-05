@@ -1,6 +1,6 @@
 {
-	"name": "app-a",
-	"description": "App A",
+	"name": "first_app",
+	"description": "First App",
 	"version": "0.0.1",
 	"private": false,
 	"main": "dist/index.js",
