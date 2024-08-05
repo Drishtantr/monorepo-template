@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://github.com/Drishtantr/monorepo-template/compare/first_app-v0.0.2...first_app-v1.0.0) (2024-08-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* change name ([#7](https://github.com/Drishtantr/monorepo-template/issues/7))
+
+### Features
+
+* change name ([#7](https://github.com/Drishtantr/monorepo-template/issues/7)) ([afcb53f](https://github.com/Drishtantr/monorepo-template/commit/afcb53fc18362f615166e523800c4291af4da267))
+
 ## [0.0.2](https://github.com/Drishtantr/monorepo-template/compare/first_app-v0.0.1...first_app-v0.0.2) (2024-08-05)
 
 
