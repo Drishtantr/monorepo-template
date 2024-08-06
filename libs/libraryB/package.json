@@ -1,5 +1,5 @@
 {
-	"name": "library-b",
+	"name": "@lib/package_b",
 	"description": "Library B",
 	"version": "0.0.1",
 	"private": false,
